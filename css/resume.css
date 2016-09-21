@@ -1,0 +1,23 @@
+.intro{
+	font-size: 20px;
+     font-family: Georgia, serif;
+     
+
+
+
+}
+
+.spam{
+	position: static;
+    border: 3px solid Brown;
+    font-family: Courier, Monaco, monospace;
+}
+
+
+
+.spoon{
+  font: italic;
+}
+.eat {
+  font: initial;
+}
